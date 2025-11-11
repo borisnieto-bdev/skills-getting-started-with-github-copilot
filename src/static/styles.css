@@ -154,3 +154,10 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant {
+  background-color: #e3f2fd;
+  color: #1565c0;
+  padding: 10px;
+  border-radius: 4px;
+}
